@@ -1,8 +1,8 @@
 {
-    "name": "queen_amdi",
+    "name": "Deesara_Y",
     "version": "3.5.0v",
-    "description": "Queen Amdi Bot project - a Whatsapp userbot helping to improve your Whatsapp experience.",
-    "main": "./QueenAmdi/assets/module.js",
+    "description": "DeesaraY Bot project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+    "main": "./DeesaraY/assets/module.js",
     "scripts": {
       "start": "supervisor -s assets/module.js"
     },
@@ -13,8 +13,8 @@
     "keywords": [
       "whatsapp"
     ],
-    "author": "Black Amda",
-    "developer": "AN Tech",
+    "author": "Deesara",
+    "developer": "Deesara",
     "license": "GPL-3.0-or-later",
     "bugs": {
       "url": "https://github.com/BlackAmda/QueenAmdi/issues"
