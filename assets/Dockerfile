@@ -1,4 +1,4 @@
-FROM blackamda/queenamdi:public
+FROM DeesaraY/queenamdi:public
 
 RUN git clone https://github.com/BlackAmda/QueenAmdi /root/QueenAmdi
 WORKDIR /root/QueenAmdi/
